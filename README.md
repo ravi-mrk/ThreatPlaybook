@@ -10,7 +10,7 @@ A unified DevSecOps Framework that allows you to go from iterative, collaborativ
 
 
 
-TEST add from GL
+TEST removed from GH
 
 [![Black Hat Arsenal USA](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2018.svg)](https://www.blackhat.com/us-18/arsenal/schedule/index.html#threatplaybook-11697)
 
