@@ -10,7 +10,7 @@ A unified DevSecOps Framework that allows you to go from iterative, collaborativ
 
 
 
-TEST check push from GL and pull from GH and pull from GL & Push to GH & Again pusing to Github for test after move
+TEST check push from GL and pull from GH and pull from GL & Push to GH & Again pusing to Github for test after move and now from GH to GL again for pull mirroring test
 
 [![Black Hat Arsenal USA](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2018.svg)](https://www.blackhat.com/us-18/arsenal/schedule/index.html#threatplaybook-11697)
 
